@@ -1,0 +1,15 @@
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.exe
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.deps.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.runtimeconfig.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.pdb
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.AssemblyReference.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfoInputs.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfo.cs
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\refint\CalidadT1.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.pdb
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.genruntimeconfig.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\T1\CalidadT1\CalidadT1\obj\Debug\net6.0\ref\CalidadT1.dll
