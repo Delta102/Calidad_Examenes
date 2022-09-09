@@ -16,6 +16,6 @@ public class BookStore
     
     public decimal GetTotal()
     {
-        return shoppingCart.Sum(x => x.Price);
+        return shoppingCart.Sum(x=>x.Price);
     }
 }
